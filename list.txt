@@ -1,1 +1,7 @@
-Adding the initial commit
+- Add a collaborator to repo
+
+##Person 2:
+- Clone repo locally
+- Create branch and work in this branch
+- Commit changes
+- Sync to remote repo
